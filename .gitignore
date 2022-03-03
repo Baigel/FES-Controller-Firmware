@@ -1,0 +1,46 @@
+# RTOS/STM Source Files
+FES-Firmware/FES-Controller-RTOS-v1.0/build
+FES-Firmware/FES-Controller-RTOS-v1.0/Drivers
+FES-Firmware/FES-Controller-RTOS-v1.0/Middlewares
+FES-Firmware/FES-Controller-v2.0/build
+FES-Firmware/FES-Controller-v2.0/Drivers
+FES-Firmware/FES-Controller-v2.0/Middlewares
+
+# vs code properties
+FES-Firmware/FES-Controller-RTOS-v1.0/.vscode
+FES-Firmware/FES-Controller-RTOS-v1.0/FES-Controller-RTOS.code-workspace
+FES-Firmware/FES-Controller-v2.0/.vscode
+FES-Firmware/FES-Controller-v2.0/FES-Controller-RTOS.code-workspace
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
