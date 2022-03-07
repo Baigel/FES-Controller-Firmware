@@ -1,2 +1,4 @@
- # No RTOS FES Controller Firmware Implementation
+
+
+v1 uses a FreeRTOS implementation, while v2 is does not uses RTOS and utilizes interrupts more.
 
